@@ -64,6 +64,24 @@ const SAMPLE_DATA = {
         icon: "🌎"
       }
     ],
+    recentOrders: [
+      {
+        id: 1,
+        restaurant: "Sushi Palace",
+        items: ["Dragon Roll", "Miso Soup"],
+        total: 32.50,
+        date: "2024-03-15",
+        status: "Delivered"
+      },
+      {
+        id: 2,
+        restaurant: "Pizza Place",
+        items: ["Margherita Pizza", "Garlic Bread"],
+        total: 28.75,
+        date: "2024-03-14",
+        status: "Completed"
+      }
+    ],
     pointsHistory: [
       {
         id: 1,
