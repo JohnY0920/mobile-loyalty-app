@@ -171,7 +171,7 @@ const SAMPLE_DATA = {
       rating: 4,
       date: "2024-03-15",
       content: "Amazing experience! The food was delicious and service was great.",
-      photos: ["/api/placeholder/200/200", "/api/placeholder/200/200"],
+      photos: ["https://nagoyaexpress.ca/wp-content/uploads/2017/10/Super-Deluxe-Sashimi-Combo-1.jpg", "https://www.justonecookbook.com/wp-content/uploads/2021/08/Green-Tea-Ice-Cream-0099-I-1.jpg"],
       likes: 12,
       replies: [
         {
