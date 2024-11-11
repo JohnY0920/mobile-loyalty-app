@@ -260,7 +260,7 @@ const SAMPLE_DATA = {
       description: "Earn 2x points on all orders this weekend",
       period: "Sat-Sun, 11 AM - 10 PM",
       multiplier: 2,
-      image: "/api/placeholder/400/200",
+      image: "https://pbs.twimg.com/media/EGiXROSWwAA3NvC.jpg",
       backgroundColor: "from-purple-500 to-blue-500"
     },
     {
@@ -269,7 +269,7 @@ const SAMPLE_DATA = {
       description: "3x points on all drinks during happy hour",
       period: "Mon-Fri, 4 PM - 7 PM",
       multiplier: 3,
-      image: "/api/placeholder/400/200",
+      image: "https://thesocialsetters.com/wp-content/uploads/2020/08/happy-hour-cocktails.jpg",
       backgroundColor: "from-orange-500 to-red-500"
     }
   ]
