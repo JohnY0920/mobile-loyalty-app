@@ -196,7 +196,7 @@ const SAMPLE_DATA = {
       description: "Get any dessert free with main course",
       points: 500,
       expires: "2024-04-01",
-      image: "/api/placeholder/200/200",
+      image: "https://therecipecritic.com/wp-content/uploads/2021/11/cremebrulee-1.jpg",
       qrCode: "DESSERT500",
       terms: [
         "Cannot be combined with other offers",
@@ -216,7 +216,7 @@ const SAMPLE_DATA = {
       description: "Valid on orders above $30",
       points: 1000,
       expires: "2024-04-15",
-      image: "/api/placeholder/200/200",
+      image: "https://d1mqafote9yg5m.cloudfront.net/sites/files/beautyfresh/REFER%20A%20FRIEND.jpg",
       qrCode: "OFF10",
       terms: [
         "Minimum order value $30",
