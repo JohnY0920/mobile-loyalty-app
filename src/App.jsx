@@ -9,7 +9,7 @@ import {
   Menu, X, Plus, Minus, Map, MessageCircle,
   Crown, Zap, CheckCircle2, Circle, QrCode,
   Camera, Users, DollarSign, ChevronLeft,
-  ChevronDown, ArrowLeft
+  ChevronDown, ArrowLeft, MoreVertical 
 } from 'lucide-react';
 
 const AppContext = createContext();
