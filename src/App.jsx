@@ -133,12 +133,12 @@ const SAMPLE_DATA = {
       mainDish: {
         name: "Signature Sushi Platter",
         restaurant: "Sakura Sushi",
-        image: "/api/placeholder/400/300"
+        image: "https://s3-media0.fl.yelpcdn.com/bphoto/Au6Y2-J8LD9yvpMUmelJRg/1000s.jpg"
       },
       pairedDish: {
         name: "Matcha Ice Cream",
         restaurant: "Sweet Dreams",
-        image: "/api/placeholder/400/300"
+        image: "https://www.siftandsimmer.com/wp-content/uploads/2020/07/matcha-mochi-ice-cream1.jpg"
       },
       rating: 4.9,
       timing: "Lunch special",
@@ -153,7 +153,7 @@ const SAMPLE_DATA = {
       restaurant: "Ramen House",
       rating: 4.7,
       points: 100,
-      image: "/api/placeholder/400/300"
+      image: "https://132980698.cdn6.editmysite.com/uploads/1/3/2/9/132980698/s816077337330137836_p231_i1_w5184.jpeg"
     },
     {
       id: 2,
@@ -161,7 +161,7 @@ const SAMPLE_DATA = {
       restaurant: "Sakura Sushi",
       rating: 4.9,
       points: 150,
-      image: "/api/placeholder/400/300"
+      image: "https://www.justonecookbook.com/wp-content/uploads/2020/06/Dragon-Roll-0286-I.jpg"
     }
   ],
   reviews: [
