@@ -116,12 +116,12 @@ const SAMPLE_DATA = {
       mainDish: {
         name: "Spicy Hotpot Set",
         restaurant: "Happy Hotpot",
-        image: "/api/placeholder/400/300"
+        image: "https://www.yireservation.com/wp-content/uploads/2016/11/IMG_7638.jpg"
       },
       pairedDish: {
         name: "Mango Boba Tea",
         restaurant: "Boba Palace",
-        image: "/api/placeholder/400/300"
+        image: "https://plantbasedjess.com/wp-content/uploads/2024/04/IMG_0385-500x375.jpg"
       },
       rating: 4.8,
       timing: "Perfect for dinner",
