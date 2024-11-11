@@ -484,7 +484,7 @@ const HomeTab = () => {
       </div>
 
       {/* Search and Filters */}
-      <div className="sticky top-16 pt-4 pb-2 bg-gradient-to-b from-purple-50 to-transparent z-40 px-4">
+      <div className="pt-4 pb-2 bg-gradient-to-b from-purple-50 to-transparent z-40 px-4">
         <div className="flex space-x-2 mb-4">
           <div className="flex-1 relative">
             <Search className="absolute left-3 top-3 w-4 h-4 text-gray-400" />
